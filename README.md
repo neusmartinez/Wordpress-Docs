@@ -1,4 +1,4 @@
-# Wordpress-Docs
+# Instalación de WordPress
 
 Abrimos la terminal y escribimos: sudo su y luego curl -sSL https://get.easypanel.io | sh.
 ![InstalaciónWordpress1](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%201.png)
