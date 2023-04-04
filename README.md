@@ -36,7 +36,7 @@ Se nos abrirá una página para poder instalar Wordpress. Seleccionamos el idiom
 ![InstalaciónWordpress9](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%209.png)
 
 
-Escribimos el título del sitio, en este caso "Platos Llenos, Corazones Contentos" en el segundo ODS.
+Escribimos el título del sitio, "Platos Llenos, Corazones Contentos", basado en el segundo ODS: Hambre Zero.
 ![InstalaciónWordpress10](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%2010.png)
 
 
@@ -48,5 +48,5 @@ Por último le damos a "Instalar WordPress".
 ![InstalaciónWordpress12](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%2012.png)
 
 
-¡Ya tenemos Wordpress instalado dentro del dominio "localhost".
+¡Ya tenemos Wordpress instalado dentro del dominio "localhost"!
 ![InstalaciónWordpress13](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%2013.png)
