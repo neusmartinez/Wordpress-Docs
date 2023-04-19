@@ -16,7 +16,7 @@ Buscamos Wordpress dentro de EasyPanel.
 ![InstalaciónWordpress4](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%204.png)
 
 
-Nos saldrán unos valores predeterminados al pulsar en el icono de WordPress. Dejamos estos valores y le damos al botón "Crear".
+Nos saldrán unos valores predeterminados al pulsar en el icono de WordPress. Dejamos estos valores y le damos a "Crear".
 ![InstalaciónWordpress5](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%205.png)
 
 
