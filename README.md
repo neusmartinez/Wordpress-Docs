@@ -40,7 +40,7 @@ Escribimos el título del sitio, "Platos Llenos, Corazones Contentos", basado en
 ![InstalaciónWordpress10](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%2010.png)
 
 
-Escribimos un nombre de usuario, en este caso "neus", una contraseña y nuestro correo electrónico, en este caso "neumarmon@alu.edu.gva.es".
+Escribimos un nombre de usuario, en este caso "neus", una contraseña y nuestro correo electrónico.
 ![InstalaciónWordpress11](https://github.com/neusmartinez/Wordpress-Docs/blob/main/INSTALACI%C3%93N%20WORDPRESS%2011.png)
 
 
